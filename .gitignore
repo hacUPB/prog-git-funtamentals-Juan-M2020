@@ -1,0 +1,81 @@
+🔐 Archivos sensibles
+
+.env
+
+.env.local
+
+.env.*
+
+*.key
+
+*.pem
+
+🧹 Archivos temporales y logs
+
+*.log
+
+*.tmp
+
+*.temp
+
+*.swp
+
+*.bak
+
+💻 Archivos del sistema operativo
+
+.DS_Store (macOS)
+
+Thumbs.db (Windows)
+
+desktop.ini
+
+🧠 Archivos del editor / IDE
+
+.vscode/
+
+.idea/
+
+*.iml
+
+.history/
+
+📦 Dependencias (según tecnología)
+
+node_modules/
+
+vendor/
+
+bower_components/
+
+⚙️ Archivos generados / compilados
+
+dist/
+
+build/
+
+out/
+
+target/
+
+bin/
+
+obj/
+
+🐍 Python (si aplica)
+
+__pycache__/
+
+*.pyc
+
+venv/
+
+.venv/
+
+🧪 Caché y tests
+
+.cache/
+
+.pytest_cache/
+
+coverage/

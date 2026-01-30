@@ -1,7 +1,8 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/C6PSew_P)
 # Unidad No. 1 - Git y GitHub
 ## Información del estudiante  
-Nombre del estudiante:  
-Id.:  
+Nombre del estudiante: *Juan José Marín Cuartas*   
+Id.: 000577614 
 ---
 # Evaluación
 
@@ -72,6 +73,12 @@ Vas a clonar el repositorio en tu computador. Posteriormente, vas a crear una se
         - Una breve descripción del contenido de tu repositorio. Recuerda que los archivos README.md están ahí para explicar a las personas que vean tu repositorio, de qué se trata y qué contiene.
         - Explica los pasos necesarios para clonar y ejecutar el proyecto.
         - Crea una tabla de contenido con enlaces a los archivos Markdown de la carpeta `docs`.
+
+    ## Tabla de contenidos 
+    [consola](./docs/uso_consola.md)
+    [local](./docs/repositorio_local.md)
+    [remoto](./docs/repositorio_remoto.md)
+
 6. **Uso de Git:**
     - Realiza un **commit** para cada etapa del desarrollo (creación de carpetas, scripts, archivos Markdown, etc.). **Debes realizar mínimo 10 commits.** Los mensajes que utilices deben ser claros, con buena ortografía y con información relevante sobre el cambio que acabas de realizar.
     - Asegúrate de incluir imágenes con pantallazos de los pasos que realices cuando añadas elementos a tu repositorio y de los comandos de Git que utilices y su resultado.
